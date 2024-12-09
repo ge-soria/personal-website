@@ -1,0 +1,10 @@
+---
+title: "About Me"
+subtitle: "Statistics Major | Medical Research Enthusiast"
+image: Web_profile.jpg
+image-align: left
+---
+
+<img src="Resources/Web_profile.jpg" style="float:left; width:220px; height:auto; margin-right:20px;" alt="Profile Picture">
+
+I’m Gabriel Soria, an undergraduate UCLA statistics major with a passion for applying data-driven insights to solve real-world problems, particularly in the medical and healthcare fields. My academic journey is fueled by the intersection of statistical modeling and its applications in improving human health. Beyond academics, I enjoy collaborating on projects that leverage data to uncover meaningful trends and drive impactful decisions. To this end, I enjoy tracking and analyzing data in sports and video games. Explore my projects to learn more about my work and interests!

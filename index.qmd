@@ -1,0 +1,16 @@
+---
+---
+
+# Hi, I'm Gabriel Soria!
+
+Welcome to my personal website!
+
+I’m a UCLA statistics major passionate about leveraging data to solve real-world problems, particularly in the medical and healthcare fields. Through my academic and project work, I strive to uncover insights that make a meaningful impact.
+
+## Featured Project: Sentiment Analysis of Trump's Tweets
+
+Analyzed Donald Trump’s tweets during election cycles, focusing on sentiment patterns and their political implications.  
+**Key Insight**: Sentiment varied significantly across election phases, revealing trends in public communication strategies.  
+![Poster](Resources/poster.png)
+
+Explore my [Projects](projects.qmd) or learn more about me on the [About](about.qmd) page!

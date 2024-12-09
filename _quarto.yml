@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+ navbar:
+  title: "Gabriel Soria"
+  left:
+    - text: "Home"
+      href: index.qmd
+    - text: "About"
+      href: about.qmd
+    - text: "Projects"
+      href: projects.qmd
+
+format:
+  html:
+    theme: superhero
+    css: styles.css
+    toc: true
+
+
+

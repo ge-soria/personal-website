@@ -1,0 +1,37 @@
+---
+title: "Projects"
+---
+
+## 1. Sentiment Analysis of Trump's Tweets
+Analyzed Donald Trump’s tweets during election cycles, focusing on sentiment patterns and their political implications.  
+
+This ongoing project analyzes Donald Trump's tweets, with a focus on sentiment trends. The poster highlights general patterns across all tweets, while the final report will delve deeper into trends observed before and after election cycles, providing a more nuanced understanding of his communication strategies.
+
+![Poster](Resources/poster.png)
+[View the Project Poster](resources/poster.png)
+
+---
+
+## 2. Analysis of Five Major Public Libraries
+Developed a website showcasing key narratives and insights about five major public libraries. The site highlights comparative trends and unique features of each institution.
+
+- Trends in literature acquisition patterns during the 1960s.
+- Historical events' influence on public literature.
+- Research questions supported by data visualizations and secondary sources.
+
+<iframe src="https://politibooks.mobirisesite.com/narrative.html" style="width:100%; height:600px; border:none;"></iframe>
+
+- [Visit the Website](https://politibooks.mobirisesite.com/narrative.html)
+
+---
+
+## 3. Valet Operations Analysis
+Performed an analysis of valet operations at my workplace, focusing on trends and efficiency improvements following the launch of a hybrid valet system.
+
+- **Key Findings**:
+  - A significant increase in valet vehicle numbers after the hybrid system launch (p-value = 0.0002).
+  - Insights into peak times and operational efficiency.
+  - Recommendations for future staffing, data collection, and comparisons with self-parking trends.
+
+<a href="Resources/Valet-Vehicle-Report.pdf" target="_blank">Download Full Report (PDF)</a>
+

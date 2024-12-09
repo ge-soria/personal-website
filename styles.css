@@ -1,0 +1,15 @@
+/* css styles */
+.profile-section {
+    display: flex;
+    align-items: center; 
+    gap: 20px; 
+    flex-direction: row-reverse;
+}
+.profile-pic {
+    width: 200px; 
+    height: auto; 
+}
+
+body {
+    line-height: 1.75; /* Adjust line spacing */
+}
